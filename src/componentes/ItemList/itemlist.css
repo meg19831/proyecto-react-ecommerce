@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card {
+    padding: 1px;
+    background-size: contain ;
+    background-color:rgb(252, 237, 214);
+    border-radius: 6px;
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    
+  }
+
+  .card-titulo{
+text-align: center;
+justify-items: center;
+margin-top: 15px;
+margin-bottom: 15px;
+font-family: cursive;
+  }
