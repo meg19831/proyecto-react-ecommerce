@@ -29,7 +29,7 @@ console.log ( 'el contador se ejecuta')
     return(
         
         <ItemList>
-        <Avatar src = {imagen}/>
+        <Avatar className = "imagen" src = {imagen}/>
         <p className="titulo-cuadros"> 
             <strong>{titulo}</strong>
         </p>

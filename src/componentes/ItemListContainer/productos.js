@@ -1,30 +1,30 @@
 export const productos = [
     {
-        titulo: 'Las Flores',
+        titulo: 'Linea Amor',
         id: 1,
         precio: 2000,
-        imagen: '{amor}',
+        imagen: '/assets/img/amor.jpg',
         contenido:
         'Cuadro'
       },
-      {titulo: 'Las Flores',
+      {titulo: 'Linea Amor',
         id: 2,
         precio: 4000,
-        imagen: 'https://picsum.photos/id/237/400/200',
+        imagen: '/assets/img/amor1.jpg',
         contenido:
         'Cuadro'
       },
-      {titulo: 'Las Flores',
+      {titulo: 'Linea Amor',
       id: 3,
       precio: 4000,
-      imagen: 'https://picsum.photos/id/237/400/200',
+      imagen: '/assets/img/amor2.jpg',
       contenido:
       'Cuadro'
     },
-    {titulo: 'Las Flores',
+    {titulo: 'Linea Amor',
     id: 4,
     precio: 4000,
-    imagen: 'https://picsum.photos/id/237/400/200',
+    imagen: '/assets/img/amor3.jpg',
     contenido:
       'Cuadro',
   },

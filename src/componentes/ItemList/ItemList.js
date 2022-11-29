@@ -4,7 +4,7 @@ import './itemlist.css';
 
 
 const  ItemList = ({ children })=> {
-  return <div className="card">{children}
+  return <div className="item">{children}
       
     </div>
   };
